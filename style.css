@@ -195,3 +195,8 @@ body {
 .file-upload-image {
 	width:  50%;
 }
+
+.ad-banner {
+	width: 320px;
+	margin: 0 auto;
+}
