@@ -8,9 +8,13 @@
 
 
 <url>
-  <loc>https://animalface-1.netlify.app/</loc>
-  <lastmod>2020-10-16T13:22:06+00:00</lastmod>
+  	<loc>https://animalface-1.netlify.app/</loc>
+  	<lastmod>2020-10-16T13:22:06+00:00</lastmod>
 </url>
 
+<url>
+	<loc>https://animalface-1.ga/</loc>
+	<lastmod>2020-10-19T14:43:03+00:00</lastmod>
+</url>
 
 </urlset>
